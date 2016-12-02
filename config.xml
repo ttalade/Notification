@@ -23,6 +23,7 @@
 	<!-- required plugins go here -->	    
 
 	<gap:plugin name="org.apache.cordova.dialogs" source="npm" />
+	    <gap:plugin name="de.appplant.cordova.plugin.local-notification" source="npm"/>
 
 
 
