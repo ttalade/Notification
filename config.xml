@@ -20,7 +20,12 @@
 	<preference name="phonegap-version"/>
 	
 	
-	<!-- required plugins go here -->
+	<!-- required plugins go here -->	    
+
+	<gap:plugin name="org.apache.cordova.dialogs" source="npm" />
+
+
+
 	     
 
 </widget>
